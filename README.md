@@ -85,3 +85,10 @@ Config :
 1. You are not allowed to write any production code _unless it is to make a production code pass_
 1. You are not allowed to write any more of a  unit test than is sufficient to fail ; a compilation error is a failure
 1. You are not allowed to write any production code than is sufficient to pass the unit test
+
+### 4 solution boundries ( Categories of tests to Conduct ): 
+
+ 1. already had b'day 
+ 1. b'day yet to come
+ 1. b'day on leap year 
+ 1. b'day on the same day as fromDate
